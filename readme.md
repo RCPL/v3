@@ -6,14 +6,17 @@ Not much to see here yet. So far just a collection of The Good Parts™ of the c
 
 ## Install Locally
 ```
-cd [project folder]
+gem install jekyll bundler
+cd ~/Sites/
+git clone git@github.com:RCPL/v3-jekyll.git
+cd v3-jekyll
 bundle install
 ```
 
 ## Run Server
 ```
 cd [project folder]
-jekyll serve --watch
+bundle exec jekyll serve --watch
 ```
 Visit http://localhost:4000
 
