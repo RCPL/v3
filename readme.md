@@ -38,8 +38,8 @@ bundle exec jekyll serve --watch
 ```
 
 ### View
-Local: [http://localhost:4000](http://localhost:4000)
-On Github: https://rcpl.github.io/v3-jekyll/
+ - Local: [http://localhost:4000](http://localhost:4000)
+ - Github: https://rcpl.github.io/v3-jekyll/
 
 ### Update Dependencies or Reinstall
 ```
