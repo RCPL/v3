@@ -8,7 +8,7 @@ Not much to see here yet. So far just a collection of The Good Parts™ of the c
 Based on [great research done by Tom Osborne at Viget](https://www.viget.com/articles/naming-colors)
 
 ### SVG UI on a 12-Square Grid
-The icon grid (12 units) was adopted from FontAwesome so icons from that set are compatible, but only the necessary icons have been included. The icomoon configuration can be found at [/img/ui/Richland Library 2.0.json].
+The icon grid (12 units) was adopted from FontAwesome so icons from that set are compatible, but only the necessary icons have been included. The icomoon configuration can be found at [img/ui/Richland Library 2.0.json](/img/ui/Richland Library 2.0.json).
 
 ### Flex-First Layouts with Sassless 2
 https://github.com/wraybowling/sassless
