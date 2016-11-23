@@ -1,6 +1,6 @@
 # V3 Jekyll
 
-https://rcpl.github.io/V3-jekyll/
+https://rcpl.github.io/v3-jekyll/
 
 Not much to see here yet. So far just a collection of The Good Parts™ of the current Richland Library web site, refactored, cleaned up with new standards. Documentation follows below:
 
