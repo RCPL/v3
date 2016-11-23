@@ -4,22 +4,6 @@ https://rcpl.github.io/v3-jekyll/
 
 Not much to see here yet. So far just a collection of The Good Parts™ of the current Richland Library web site, refactored, cleaned up with new standards. Documentation follows below:
 
-## Install Locally
-```
-gem install jekyll bundler
-cd ~/Sites/
-git clone git@github.com:RCPL/v3-jekyll.git
-cd v3-jekyll
-bundle install
-```
-
-## Run Server
-```
-cd [project folder]
-bundle exec jekyll serve --watch
-```
-Visit http://localhost:4000
-
 ## Human-Readable Color Palette
 
 ## SVG UI on a 12-Square Grid
@@ -33,3 +17,25 @@ with Google Translate
 
 ## Trackable Updates
 with Github, including all data
+
+## Local Setup & Maintenance
+
+### Install
+```
+gem install jekyll bundler
+cd ~/Sites/
+git clone git@github.com:RCPL/v3-jekyll.git
+cd v3-jekyll
+bundle install
+```
+
+### Run
+```
+bundle exec jekyll serve --watch
+```
+Visit http://localhost:4000
+
+### Update Dependencies or Reinstall
+```
+bundle update
+```
