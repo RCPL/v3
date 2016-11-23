@@ -26,7 +26,7 @@ The icon grid (12 units) was adopted from FontAwesome so icons from that set are
 https://github.com/wraybowling/sassless
 
 ## Translations
-with Google Translate (in progress)
+with Google Translate
 
 ## Trackable Updates
 with Github, including all data
