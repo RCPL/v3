@@ -4,6 +4,19 @@ https://rcpl.github.io/V3-jekyll/
 
 Not much to see here yet. So far just a collection of The Good Parts™ of the current Richland Library web site, refactored, cleaned up with new standards. Documentation follows below:
 
+## Install Locally
+```
+cd [project folder]
+bundle install
+```
+
+## Run Server
+```
+cd [project folder]
+jekyll serve --watch
+```
+Visit http://localhost:4000
+
 ## Human-Readable Color Palette
 
 ## SVG UI on a 12-Square Grid
