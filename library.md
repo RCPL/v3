@@ -12,3 +12,12 @@ Richland Library is the public library system of Richland County, South Carolina
 ## Services
 ## Staff
 a list of people who work for us
+
+# Events
+<ul>
+  {% for event in site.events %}
+    <li>
+      <a href="{{event.url}}">{{event.title}}</a>
+    </li>
+  {% endfor %}
+</ul>

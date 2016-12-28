@@ -2,11 +2,8 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: post
+layout: default
 ---
-
-{{ featuredItem }}
-{{ featuredStories }}
 
 <form>
 <p>Subscribe to the Richland Library Newsletter and enjoy written wonders delivered straight to your inbox.</p>
@@ -28,3 +25,13 @@ layout: post
   <li>Vonegut, Kurt</li>
 </ul>
 </section>
+
+<h3>Events</h3>
+<ul>
+{% for event in site.events %}
+  <li>
+    <a href="{{event.url}}">{{event.title}}</a>
+    {{event.excerpt}}
+  </li>
+{% endfor %}
+</ul>
