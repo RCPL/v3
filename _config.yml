@@ -31,10 +31,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-
 collections:
   events:
-    output: true
     defaults:
       values:
-        layout: post
+        layout: post 
+        breadcrumbs: [Events]
