@@ -37,3 +37,4 @@ collections:
       values:
         layout: post 
         breadcrumbs: [Events]
+  vendors:

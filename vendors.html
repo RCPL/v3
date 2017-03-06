@@ -1,0 +1,13 @@
+---
+title: Vendors 
+layout: default
+---
+
+<ul>
+{% for vendor in site.vendors %}
+  <li>
+    <a href="{{vendor.url}}">{{vendor.title}}</a>
+    {{vendor.output}}
+  </li>
+{% endfor %}
+</ul>
