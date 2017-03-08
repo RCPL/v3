@@ -19,8 +19,6 @@ https://github.com/wraybowling/sassless
 ### Trackable Updates
 with Github, including all data
 
-
-
 ## Local Setup & Maintenance
 
 ### Install
@@ -34,7 +32,7 @@ bundle install
 
 ### Run
 ```
-bundle exec jekyll serve --watch
+jekyll serve
 ```
 
 ### View
