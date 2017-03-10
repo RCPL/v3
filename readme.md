@@ -32,7 +32,7 @@ bundle install
 
 ### Run
 ```
-jekyll serve
+bundle exec jekyll serve
 ```
 
 ### View
@@ -43,3 +43,6 @@ jekyll serve
 ```
 bundle update
 ```
+
+### Admin Panel for Quick Edits (Local Only)
+[localhost:4000/admin](http://localhost:4000/admin)
