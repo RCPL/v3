@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 titleAfter: Ebooks, movies, music, and events free for Richland Library cardholders.
+priority: 1.0
 ---
 
 <section>
