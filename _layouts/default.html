@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>{% if page.title %}{{ page.title }} - {% endif %}Richland Library</title>
+  <title>{% if page.title %}{{ page.title }} - {% endif %}Richland Library{% if page.titleAfter %} - {{ page.titleAfter }}{% endif %}</title>
   <link rel="stylesheet" href="{{ site.github.url }}/css/wildcard.css">
   <link rel="stylesheet" href="{{ site.github.url }}/css/layout.css">
   <link rel="stylesheet" href="{{ site.github.url }}/css/library.css">
