@@ -30,3 +30,19 @@ footer {
 .logo{
   height:4em;
 }
+
+.promo-bar {
+  display:block;
+  background-color: orange;
+  text-align:center;
+  height:2em;
+  line-height:2em;
+  p,img{
+    display:inline;
+  }
+  img {
+    height:4em;
+    vertical-align:top;
+  } 
+}
+
