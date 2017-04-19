@@ -27,13 +27,13 @@ footer {
   color:white;
 }
 
-.logo{
+.logo img{
   height:4em;
 }
 
 .promo-bar {
   display:block;
-  background-color: orange;
+  background-color: $snail;
   text-align:center;
   height:2em;
   line-height:2em;
