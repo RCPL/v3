@@ -57,7 +57,8 @@ html[dir="rtl"] .left { float:right; }
     flex:auto;
     -ms-flex:auto;
     -webkit-flex:auto;
-    width:20em;
+    flex-basis:20em;
+    -webkit-flex-basis:20em;
 }
 
 .transform-center {

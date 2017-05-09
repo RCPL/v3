@@ -1,8 +1,7 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
+description: Access Freely. Ebooks, movies, music, and events free for cardholders.
+priority: 1.0
 ---
 
 <section>
@@ -31,10 +30,9 @@ layout: default
 </ul>
 
 <section class="newsletter cushion">
-  <form> 
+  <form>
   <p>Subscribe to the Richland Library Newsletter and enjoy written wonders delivered straight to your inbox.</p>
   <input type="email" placeholder="Your Email">
   <button>Subscribe</button>
   </form>
 </section>
-

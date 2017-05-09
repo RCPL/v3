@@ -1,6 +1,6 @@
 # V3 Jekyll
 
-https://rcpl.github.io/v3-jekyll/
+https://rcpl.github.io/v3/
 
 Not much to see here yet. So far just a collection of The Good Parts™ of the current Richland Library web site, refactored, cleaned up with new standards. Documentation follows below:
 
@@ -37,7 +37,7 @@ bundle exec jekyll serve
 
 ### View
  - Local: [http://localhost:4000](http://localhost:4000)
- - Github: https://rcpl.github.io/v3-jekyll/
+ - Github: https://rcpl.github.io/v3/
 
 ### Update Dependencies or Reinstall
 ```
