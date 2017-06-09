@@ -31,10 +31,19 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+defaults:
+  -
+    values:
+      layout: default
+  -
+    scope:
+      type: events
+    values:
+      layout: event
+      breadcrumbs: [Events]
+
+
 collections:
   events:
-    defaults:
-      values:
-        layout: post 
-        breadcrumbs: [Events]
-  vendors:
+    output: true
+

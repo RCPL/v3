@@ -6,9 +6,14 @@ breadcrumbs: ["The Library"]
 
 <img src="/img/aerial.jpg">
 
-Richland Library is the public library system of Richland County, South Carolina. In December 2012, the library shortened its name from Richland County Public Library. It has 11 branches including its 242,000 sq ft (22,500 m2) Main Library. In 2001, it was named the National Library of the Year by the Library Journal and the Gale Group.
+Richland Library is the public library system of Richland County, South Carolina. It serves a wide variety of people for a wide variety of purposes.
 ## Library History
+Founded in 19XX, Richland Library was started during the lorem ipsum dolor salet is guram kip atlas. [Learn more from our Local History department](/library/departments/local-history).
+
 ## Locations
+
+{% include image-summary-card.html image="/img/locations/main.jpg" summary="Main" %}
+
 
 <img class="full" src="/img/map-tour.png">
 
@@ -25,3 +30,8 @@ a list of people who work for us
     </li>
   {% endfor %}
 </ul>
+
+## Awards
+
+* 2017: Institute of Museum and Library Services
+* 2001: National Library of the Year - Library Journal & the Gale Group

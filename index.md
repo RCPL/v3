@@ -4,19 +4,25 @@ description: Access Freely. Ebooks, movies, music, and events free for cardholde
 priority: 1.0
 ---
 
-<section>
-  <h2>The Catalog</h2>
-  <form>
-  <input type="text" placeholder="e.g. 'nikola tesla' or 'ghost towns'">
-  <button>Search</button>
-  </form>
+<section class="search text-center">
+  <div class="cushion">
+    <form>
+    <select>
+      <option>Catalog</option>
+      <option>Events</option>
+      <option>richlandlibrary.com</option>
+    </select>
+    <input type="text" placeholder="e.g. 'nikola tesla' or 'ghost towns'">
+    <button>Search</button>
+    </form>
 
-  <h3>Top Authors</h3>
-  <ul>
-    <li>Martel, Yann</li>
-    <li>Rowling, J.K.</li>
-    <li>Vonegut, Kurt</li>
-  </ul>
+    <h3>Top Authors</h3>
+    <ul>
+      <li>Martel, Yann</li>
+      <li>Rowling, J.K.</li>
+      <li>Vonegut, Kurt</li>
+    </ul>
+  </div>
 </section>
 
 <h3>Events</h3>

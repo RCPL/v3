@@ -5,8 +5,10 @@
 @import "typography";
 
 // Components
+@import "components/search";
 @import "components/newsletter";
 @import "components/breadcrumb";
+@import "components/person";
 
 html{
   background-color:white;

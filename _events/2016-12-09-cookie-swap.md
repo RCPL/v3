@@ -1,7 +1,7 @@
 ---
 title: Cookie Swap
 categories: [Staff]
-breadcrumbs: [Events]
+tags: [food]
 ---
 
 Bring a dozen cookies and take a dozen cookies. It'll be fun!

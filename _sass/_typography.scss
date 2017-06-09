@@ -1,3 +1,4 @@
+// headers
 h1{
   font-size:calc(4rem + 0.75vmin);
 }
@@ -11,3 +12,7 @@ h3{
   text-decoration:uppercase;
 }
 
+// alignment
+.text-center {
+  text-align: center;
+}
