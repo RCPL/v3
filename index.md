@@ -28,10 +28,7 @@ priority: 1.0
 <h3>Events</h3>
 <ul>
 {% for event in site.events %}
-  <li>
-    <a href="{{event.url}}">{{event.title}}</a>
-    {{event.excerpt}}
-  </li>
+  {% include event.html event={{event}} %}
 {% endfor %}
 </ul>
 

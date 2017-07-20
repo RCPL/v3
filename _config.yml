@@ -39,7 +39,7 @@ defaults:
     scope:
       type: events
     values:
-      layout: event
+      layout: event-page
       breadcrumbs: [Events]
 
 
