@@ -28,7 +28,7 @@ priority: 1.0
 <h3>Events</h3>
 <ul>
 {% for event in site.events %}
-  {% include event.html event={{event}} %}
+  {% include event.html %}
 {% endfor %}
 </ul>
 
